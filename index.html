@@ -187,9 +187,136 @@
       from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
     }
+    /* === Panel lateral oculto en escritorio === */
+    .tree-panel {
+      width: 300px;
+      min-width: 250px;
+      max-width: 400px;
+      overflow-y: auto;
+      background-color: #dbefff;
+      padding: 1rem;
+      border-right: 1px solid #aacbee;
+      box-shadow: 2px 0 8px rgba(59, 130, 246, 0.1);
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      transform: translateX(-100%);
+      transition: transform 0.3s ease-in-out;
+      z-index: 1000;
+    }
+
+    /* Activación móvil */
+    .tree-panel.visible-desktop {
+      transform: translateX(0);
+    }
+
+    /* Zona invisible pero más amplia y tolerante */
+    .hover-zone {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 200px; /* más laxo */
+      height: 100vh;
+      z-index: 999;
+    }
+
+
+    @media (max-width: 768px) {
+      .tree-panel {
+        transform: translateX(-100%);
+        width: 80%;
+        max-width: 300px;
+        box-shadow: 4px 0 10px rgba(0,0,0,0.2);
+        background-color: #dbefff;
+      }
+
+    /* Activación móvil */
+    .tree-panel.visible-mobile {
+      transform: translateX(0);
+    }
+
+      .toggle-btn {
+        display: block;
+      }
+
+      .hover-zone {
+        display: none;
+      }
+    }
+
+
+
+    /* Mostrar panel al pasar el mouse por el borde izquierdo */
+    .tree-panel.hidden-desktop {
+      transform: translateX(-100%);
+    }
+
+    .tree-panel.visible-desktop {
+      transform: translateX(0);
+    }
+
+
+    /* === Botón para móviles === */
+    .toggle-btn {
+      display: none;
+      position: fixed;
+      top: 10px;
+      left: 10px;
+      background-color: #0077cc;
+      color: white;
+      border: none;
+      padding: 10px 14px;
+      border-radius: 6px;
+      z-index: 2000;
+    }
+
+    /* Mostrar el botón y adaptar en móviles */
+    @media (max-width: 768px) {
+      .tree-panel {
+        position: fixed;
+        transform: translateX(-100%);
+        width: 80%;
+        max-width: 300px;
+        box-shadow: 4px 0 10px rgba(0,0,0,0.2);
+        background-color: #dbefff;
+      }
+
+      .tree-panel.active {
+        transform: translateX(0);
+      }
+
+      .toggle-btn {
+        display: block;
+      }
+
+      .container {
+        flex-direction: column;
+      }
+    }
+    /* Zona invisible que activa el panel al pasar el cursor */
+    .hover-zone {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 600px;
+      height: 100vh;
+      z-index: 999;
+    }
+
+    /* Mostrar el panel cuando está activo */
+    .tree-panel.desktop-visible {
+      transform: translateX(0);
+    }
+
+
   </style>
 </head>
 <body>
+  <button class="toggle-btn" onclick="toggleMenu()">☰ Temario</button>
+  <div class="hover-zone"
+     onmouseenter="startShowPanelDelay()"
+     onmouseleave="startHidePanelDelay()"></div>
   <div class="container">
     <div class="tree-panel">
       <h3>M2i Resumen</h3>
@@ -1172,6 +1299,50 @@
     }
 
     
+    function toggleMenu() {
+      document.querySelector('.tree-panel').classList.toggle('active');
+    }
+
+    function showPanel() {
+      const panel = document.querySelector('.tree-panel');
+      if (window.innerWidth > 768) {
+        panel.classList.add('visible');
+      }
+    }
+
+    let hoverTimeout;
+
+    function isMobile() {
+      return window.innerWidth <= 768;
+    }
+
+    function startShowPanelDelay() {
+      if (isMobile()) return;
+      clearTimeout(hoverTimeout);
+      hoverTimeout = setTimeout(() => {
+        const panel = document.querySelector('.tree-panel');
+        panel.classList.add('visible-desktop');
+      }, 40);
+    }
+
+    function startHidePanelDelay() {
+      if (isMobile()) return;
+      clearTimeout(hoverTimeout);
+      hoverTimeout = setTimeout(() => {
+        const panel = document.querySelector('.tree-panel');
+        panel.classList.remove('visible-desktop');
+      }, 2000);
+    }
+
+    function toggleMenu() {
+      const panel = document.querySelector('.tree-panel');
+      panel.classList.toggle('visible-mobile');
+    }
+
+
+
+
+
 
   </script>
 </body>
