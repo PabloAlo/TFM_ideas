@@ -10,7 +10,7 @@
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
       display: flex;
-      height: 100vh;
+      height: 100dvh;
       background: linear-gradient(to bottom, #eef6fb, #dbefff);
       color: #2c3e50;
     }
@@ -96,7 +96,7 @@
     }
 
     /* === Responsive === */
-    @media (max-width: 768px) {
+    @media (max-width: 1024px) {
       .container {
         flex-direction: column;
       }
@@ -222,7 +222,7 @@
     }
 
 
-    @media (max-width: 768px) {
+    @media (max-width: 1024px) {
       .tree-panel {
         transform: translateX(-100%);
         width: 80%;
@@ -231,21 +231,19 @@
         background-color: #dbefff;
       }
 
-    /* Activación móvil */
-    .tree-panel.visible-mobile {
-      transform: translateX(0);
-    }
-
-      .toggle-btn {
-        display: block;
+      /* Activación móvil */
+      .tree-panel.visible-mobile {
+        transform: translateX(0);
       }
 
-      .hover-zone {
-        display: none;
+        .toggle-btn {
+          display: block;
+        }
+
+        .hover-zone {
+          display: none;
+        }
       }
-    }
-
-
 
     /* Mostrar panel al pasar el mouse por el borde izquierdo */
     .tree-panel.hidden-desktop {
@@ -272,7 +270,7 @@
     }
 
     /* Mostrar el botón y adaptar en móviles */
-    @media (max-width: 768px) {
+    @media (max-width: 1024px) {
       .tree-panel {
         position: fixed;
         transform: translateX(-100%);
@@ -294,6 +292,7 @@
         flex-direction: column;
       }
     }
+
     /* Zona invisible que activa el panel al pasar el cursor */
     .hover-zone {
       position: fixed;
