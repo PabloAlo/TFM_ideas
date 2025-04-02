@@ -1,0 +1,481 @@
+    
+Trabajos Fin de Máster realizados por estudiantes del Máster en Matemática Industrial
+
+
+Especialidad de Simulación Numérica
+
+Thermal and Multiphase Validations with the Lattice Boltzmann Method software XFlow
+
+Implementación de modelos LGM para medición del riesgo de contrapartida en una cartera
+
+Análisis y propuesta de mejora el proceso de temple de nueces de juntas homocinéticas del sector de la automoción
+
+Cálculo del CVA mediante modelos de EDPs
+
+Cálculo por elementos finitos de la patrullera R-46. Cubierta y cabina
+
+Desarrollo y validación de un modelo computacional de la mecánica de un cable metálico a través de la técnica MOR
+
+Diferenciación automática en la valorización de derivados con EDPs
+
+Caracterización acústica de una placa absorbente a partir de la incidencia de una onda plana
+
+Simulación magnetohidrodinámica del efecto de elevación de una columna de metal fundido con una máquina de inducción lineal
+
+Simulación numérica y optimización del calentamiento por inducción en procesos de forja
+
+Modelización matemática y simulación numérica de la transferencia de calor de una ruta de horno alto
+
+Cálculo de curvas de velocidad-resistencia en buques con CFD
+
+Contextualización y simulación numérica de la válvula aórtica
+
+Estudio del flujo de calor en un horno de colada y solidificación natural de silicio
+
+Modeling of mooring line dynamics
+
+Introducción al riesgo modelo. Valoración de swaptions.
+
+Difusión térmica del efluente de la planta de tratamiento de efluentes líquidos (PTEL)
+
+Simulación del proceso de calafateado en un racor tipo banjo
+
+Diseño de antena en banda ancha milimétrica para tecnología 5G
+
+Geometric aortic root modeling and biomechanical simulation
+
+El método multi-backtracking+ para paneles solares fotovoltaicos
+
+Cálculo simplificado del proceso de soldadura para la obtención de distorsión en uniones a tope
+
+Modelización de fenómenos térmicos que afectan al canal principal del horno alto
+
+Análisis y simulación numérica mediante elementos finitos de procesos de solidificación de piezas de fundición
+
+Modelización de hipoxia crónica/aguda en tumores mediante la resolución de la ecuación de reacción-difusión y su efecto en tratamientos radioterápicos
+
+Modelización da distribución biocinética do radiofármaco I-131 no corpo humano. Implicación sobre a dose de radiación en pacientes con cancro de tiroides
+
+Modelado y resolución numérica de un reactor de lecho fijo (FBR)
+
+Simulación de un sistema radar de onda continua con modulación en frecuencia
+
+Simulación numérica de la cavitación por punta de pala: análisis bidimensional y tridimensional
+
+Generation of computational meshes and visualization of results for use in a 3D hydrodynamic model through the integration of external libraries on MOHID studio
+
+Validation of a CFD solution based on Lattice-Botzmann method
+
+Simulación numérica de la hidrólisis de la celulosa en agua subcrítica o supercrítica
+
+Simulación numérica del flujo sanguíneo en bifurcaciones arteriales coronarias
+
+Optimización del protocolo de carga de baterias de ion-Li
+
+Desarrollo de una metodología para la simulación de conformado explosivo
+
+Implementación y calibración de algunos modelos de volatilidad local, estocástica y local-estocástica
+
+Desarrollo de un sistema de conformado adaptativo para chapa gruesa de acero naval
+
+Simulación numérica de agrupaciones de celdas en una batería de Li+
+
+Simulador multivariable para la estimación del CVA/DVA/FVA conjunto de una tesorería teniendo en cuenta los neteos de posiciones y la correlación entre los distintos
+
+Diferenciación automática en la valorización de derivados con Monte Carlo
+
+Modelado de formación de Boil-Off Gas (BOG) en tanques de almacenamiento de GNL
+
+Modelización y simulación numérica del ensayo de vuelco de autobuses
+
+Cálculo de CVA y sus sensibilidades
+
+Modelo de bono verda para la financiación de inversiones en sistemas de energía
+
+Development of 3D visualization tools for MOHID Studio software
+
+Superficie de volatilidades de los tipos Euribor 6 meses a partir de las cotizaciones de CAPs utilizando el modelo Free Boundary SABR
+
+Modelo shifted SABR para derivados de tipos de interés
+
+Métodos de reducción de orden para la simulación numérica de celdas de ion-litio
+
+Programación de distintas estrategias de paralelización para el algoritmo de optimización VNS (Variable Neighborhood Search)
+
+Simulación 3D de la aerodinámica de un secadero de madera por convección
+
+Optimización de tratamientos radioterápicos de VMAT: implementación de un algoritmo estocástico
+
+Simulación dun problema FSI usando formulación ALE en válvulas aórticas
+
+Implementación de la herramienta AMIGO en el modelo 1D electroquímico de CIDETEC que representa el comportamiento de las baterías de litio ión
+
+Un modelo multicapa de aguas someras: derivación, aproximación numérica y validación
+
+Inicialización de temperaturas del código de fundición CastFEM mediante la simulación del proceso de vertido
+
+Modelado de un sistema bioelectroquímico para la conversión de dióxido de carbono en compuestos carboxílicos e hidrocarburos de amplio uso en la industria química
+
+Modelización del recorrido de una mezcla de gases-carbón efectuado en quemadores en función de diferentes posiciones del concentrador
+
+Dimensionamiento y optimización del sistema de distribución de potencia de Vehículo Eléctrico Híbrido basados en pilas de combustible
+
+Proceso de optimización de máquinas de flujo transversal
+
+Simulación numérica de un servotimón
+
+Modelización de la distribución biocenética del radiofármaco I-131 en el cuerpo humano. Implicación sobre la dosis de radiación en pacientes con cáncer de tiroides
+
+Simulación numérica de fenómenos de desgaste que afectan al canal principal del horno alto
+
+Optimización de estructuras de respaldos de asientos traseros de vehículos
+
+Minimum Capital Requirements for Market Risk
+
+Modelado y simulación del proceso de descongelación de alimentos en microondas
+
+Modelado y simulación de un proceso de fermentación vínica
+
+Simulación numérica del proceso de boil-off en depósitos de GNL
+
+Modelado do dano no sistema vascular tumoral causado por doses altas de radiación e o seu efecto na probabilidade de control tumoral
+
+Estudo de fórmulas de volume e perfil, para a obtención dunha tarifa de cubicación para Pinus pinaster
+
+Optimización de la señal digital de una cámara termográfica LWIR sin sistema de refrigeración
+
+Visualización de datos multidimensionales
+
+Análisis del movimiento de Dispositivos de Agregadores de Peces (FAD) en el océano para modelar su comportamiento
+
+Modelado biocinético del radiofármaco Lu-177 en pacientes con tumores neuroendocrinos avanzados
+
+Motor de Cálculo para Herramientas Financieras
+
+Monitorización de la condición de sistemas mecatrónicos: un enfoque basado en sensores virtuales
+
+3D Multiphysics simulation of electrodes in an electric arc furnace
+
+Un algoritmo de ruta óptima para una embarcación autónoma
+
+Mejora del Sistema de Compresión en el Envío de Información de los Datos de la Sonda de las Boyas
+
+Simulación numérica del templado de piezas ferromagnéticas en la industria de la automoción
+
+Retos metodológicos en medición de riesgos de mercado mediante VaR y ES
+
+Generación, postproceso y filtrado de bases de datos de viento
+
+Filtros de Kalman. Aplicaciones a la observación de parámetros en modelos electroquímicos
+
+Modelo biomatemático mecanístico de mucosite en pacientes tratados con radioterapia externa
+
+Simulación numérica mediante CFD de la distribución térmica en el interior de un automóvil
+
+Modelo de volatilidad local estocástica para la valoración de opciones FX-TARN
+
+Optimization of an acoustic intensity P-U probe design using numerical methods
+
+Modelos de única partícula para la simulación numérica de celdas de ión-litio
+
+Uncertainty quantiﬁcation with stochastic ﬁnite element methods for crashworthiness in VPS
+
+Calibración de un modelo de volatilidad local y estocástica de Heston
+
+Puesta a punto de una metodología y adaptación de una herramienta software para la simulación numérica de flujos exteriores en arquitectura y urbanismo
+
+Formación de Boil-off gas en un tanque de gas natural licuado
+
+Parametrización de espectros de resonancia magnética nuclear
+
+Estudio de modelos de daño y remodelación ósea. Implementación en un programa de elementos finitos.
+
+Simulación numérica del proceso de moldeado de espumas de poliuretano.
+
+Diseño de procesos de diferenciación celular en biología sintética mediante modelado en ecuaciones parciales integro-diferenciales.
+
+Speed-up of non-linear transient magnetic problems involving periodic potential drop excitations.
+
+3D Lagrangian Coherent Structures in Periodic Open Cellular Structures.
+
+Desarrollo de un modelo in silico de respuesta tumoral en radioterapia: aplicación al fraccionamiento de dosis en tumores hipóxicos.
+
+Búsqueda de algoritmos matemáticos y estadísticos para la optimización de las instalaciones frigoríficas y térmicas.
+
+Modelización da resposta tumoral a tratamentos de radio-inmunoterapia.
+
+Latent Phase Space Learning with Stacked Autoencoders.
+
+Simulación numérica del daño producido sobre el canal principal de un horno alto.
+
+Simulación numérica de fuerzas magnetohidrodinámicas sobre partículas inmersas en metal fundido.
+
+Diseño aerodinámico y simulación numérica de hélices para UAV.
+
+DNS of bubble swarms using an Eulerian-Lagrangian method. Turbulence length sclae and spectral energy transfer.
+
+Simulación numérica dalgúns fenómenos relacionados co fondeo de buques.
+
+Implementación del análisis de frontera eficiente siguiente el modelo Markowitz-Tobin.
+
+Estudio de métodos de estimación de parámetros en sistemas electromecánicos.
+
+Construcción de un sensor virtual para estimar los valores de ciertas magnitudes no observables empleando modelos matemáticos y medidas experimentales.
+
+Especialidad de Modelización
+
+Desarrollo de una cinética química reducida multipropósito para la combustión de etanol
+
+Modelling epithelial wound healing using stochastic collective cell motion
+
+Generación de caos en superredes a temperatura ambiente por acoplamiento con un resonador lineal
+
+3D electric-thermal model of Li-ion pouch cell
+
+Modelización del viento en emplazamientos eólicos
+
+Sistemas de control para turbinas eólicas
+
+Desarrollo de un código para el análisis de fatiga de aleaciones metálicas
+
+Design of orbit determination and time synchronization (ODTS) analysis tool
+
+Low-rank reconstruction in non-uniform sampling NMR
+
+Modelo híbrido continuo-estocástico de angiogénesis inducida
+
+Detección e análise de grandes remuíños en correntes oceánicas a partir de datos medidos en obxectos á deriva
+
+Estudio y optimización de dispositvos de gestión de impacto ('crash-box') a baja velocidad para el sector de la automoción
+
+Modelo de dinámica molecular en angiogénesis
+
+Movimiento colectivo de células en superficies epiteliales
+
+The nonlinear states of viscous capillary jets confined in the axial direction
+
+A new mathematical model for wind turbine wakes
+
+Solid polymer electrode battery performace analysis
+
+Optimización de blindajes ligeros en aeronaves
+
+Modelling micropipette aspiration experiments of cells
+
+Valoración de opciones asiáticas con métodos de volatilidad local estocástica
+
+Propuesta de un modelo unidimensional para el diseño y optimización del canal de reparto de un decantador lamelar
+
+Detección de daño en estructuras mediante el análisis de termografías
+
+Atmospheric dispersion in the micro-scale: an urban application
+
+Modelado del proceso de fermentación vínica: co-cultivo de especies no convencionales
+
+Caracterización de la fiabilidad en equipos avanzados de gestión de flotas
+
+Análisis CFD del Sistema de Ventilación de un Quirófano
+
+Generalized Synchronization of Chaotic Systems with Frequency Mismatch
+
+Implementar un código numérico 3D que permita simular el comportamiento de tejidos compuestos por células individuales
+
+Sound propagation in sonic crystals
+
+Air traffic controller workload model within the Indra iACM tool
+
+Modelización del envejecimiento del gas natural licuado
+
+Modelos matemáticos y técnicas asintóticas en el movimiento colectivo de partículas autopropulsadas
+
+Identificación del nivel de criticidad de los elementos de bajo nivel que componen un centro de contro de satélites
+
+Análisis de riesgos de un brazo mecánico articulado sujeto a vibraciones
+
+Extensión de un código termoquímico con aplicaciones docentes y de investigación
+
+Implementación eficiente de métodos numéricos para la reducción de ruido en imágenes
+
+Modelización y simulación del consumo eléctrico y la generación de calor en la Red de Metro de Madrid
+
+Modelado de la respuesta térmica de un pozo geotérmico ante el movimiento de aguas subterráneas
+
+Optimización de la detección de cuerpos metálicos en imágenes de Tomografía Axial Computerizada
+
+Validación de modelos CFD de OpenFOAM para su aplicación en estudios de cálculo de cargas debidas al viento.
+
+Investigación y desarrollo de nuevas metodologías para la eliminación de destellos metálicos en TAC.
+
+Estudio de esfuerzos interlaminares en materiales compuestos. Efectos de borde.
+
+Optimised Computational Methods for the Calculation of Dispersion Diagrams.
+
+Análisis angular dependiente del tiempo del canal Bs->J/PsiK+K- basado en GPU y validación de incertidumbres sistemáticas.
+
+Inspección de uniones soldadas mediante métodos numéricos.
+
+Desarrollo de una herramienta para el diagnóstico de rodamientos.
+
+Comparación de modelos directos para la reconstrucción de fuentes generadoras de actividad craneal.
+
+Diferenciación algorítmica en el cálculo de sensibilidades de productos financieros derivados mediante métodos de Monte Carlo.
+
+Interpolación consistente de sinogramas para Tomografías Axiales Computerizadas afectadas por destellos metálicos.
+
+Evaluation of atrial function using reduced order models.
+
+Estudio numérico de dispositivos de captacinó de las olas usando SPH.
+
+Modelling and study of a membraneless microfluidic Vanadium Redox Flow Battery using COMSOL.
+
+Observabilidad e identificabilidad: simetrías de Lie.
+
+Modelado y simulación de ondas expansivas en espacios confinados.
+
+Experimental characterization and analysis of the turbulent flow past a heatexchanger with Stereo Particle Image Velocimetry.
+
+Adaptive Tensor Methods for High-Dimensional Problems.
+
+Identificación de los parámetros de control de un aerogenerador.
+
+Formulaciones basadas en EDPs de modelos de volatilidad local estocástica de tipo Tremor para valor opciones.
+
+Simulaciones de dinámica de fluidos computacional en el árbol de arterias coronarias.
+
+Uso de técnicas de Machine Learning y Procesamiento de Lenguaje Natural en el proyecto de Bemycar.
+
+Reconstrucción del campo de tensiones y desplazamiento existente en una estructura a partir de un número reducido de medidas puntuales del campo tomadas en diferentes partes de la estructura.
+
+Implementación de una modelo de volatilidad local estocástica de tipo Tremor para la valoración de opciones financieras complejas con métodos de Monte Carlo.
+
+Modelo predictivo para analizar cuál es el precio residual de un vehículo de segunda mano con técnicas de machine learning.
+
+Implementación HODMD en arquitecturas heterogéneas.
+
+Uso de técnicas Weighted Monte Carlo para equity, tipos y crédito.
+
+Modelización del error de los sensores de un sistema de navegación inercial (INS) y obtención de cota de error mediante simulaciones.
+
+Algoritmos basados en datos para el estudio de patrones espacio-temporales en flujos complejos
+
+Analysis and optimization of piezoelectric micro pumping systems
+
+Principio de invarianza en ajustes de valoración involucrados en XVA
+
+Herramientas de estabilidad en fluidos complejos
+
+Estudio mediante CFD de un dispositivo inercial (CYCLIMPACT) para separación de partículas de aerosol
+
+Modelado matemático de la reacción sólido-gas entre partículas sólidas de un convertidor químico y especies gaseosas disueltas en una mezcla de gases
+
+Cálculo del daño por fatiga por cargas térmicas resolviendo un problema directo y otro inverso. Construcción de mallas estructuradas de cuadriláteros
+
+Desarrollo del sistema de predicción y de modelos de regionalización estadística en Meteorología
+
+Deep learning applied to ultrasound medical image processing for non-invasive detection of meningitis
+
+Multiobjective optimization of open propellers
+
+Modeling of atmospheric boundary layer for its application in acoustics, CFD plus reduced order model
+
+Herramienta de búsqueda inteligente en la base de datos de TJ-II
+
+Implementación de un modelo de Phase Field para simular tribocorrosión (corrosión + desgaste) en metales
+
+Identificación de fallos en sistemas GNSS
+
+Titulización de activos mediante blockchain
+
+Diseño y simulación de un dispositivo de implante percutáneo de válvula aórtica
+
+Modelización de membranas biológicas mediante sistemas reticulares de partículas autopropulsadas
+
+Predicción a corto plazo de producción de energía eólica mediante el uso de redes neuronales LSTMs
+
+Stochastic local volatility in commodities markets
+
+Estudio detallado del comienzo de los pulsos de rotating stall y su estabilidad en un modelo 2D simplificado del rotor con perfiles idealizados
+
+Estudio de un modelo matemático que describa la ondulación de un HDF en un proceso higroscópico
+
+Adaptación del código SPARC90 para el análisis del efecto de las piscinas de supresión durante el accidente de Fukushima
+
+Elaboración de una herramienta computacional para la simulación de la fluidodinámica y transporte de especies gaseosas en espacios interiores
+
+Ajuste y validación experimental de herramienta de cálculo computacional que busca predecir el arrastre de inertes para su posterior acoplamiento al modelo de reacción sólido-gas
+
+Análisis DMD basado en datos de simulaciones numéricas 2D y 3D de un perfil NACA0015 con flap Gurney
+
+Clasificación y detección de outliers en el análisis de consumos de boyas satelitarias
+
+Implementación de modelos Phase-Field para la comprensión del fenómeno de crecimiento de dendritas
+
+Desarrollo de un modelo termofluidodinámico 3D con ANSYS Fluent de un contenedor de almacenamiento en seco de combustible nuclear irradiado
+
+Electrode topology optimization for micro Redox Flow Batteries with the Level Set Method
+
+Integración de la generación de hidrógeno verde en el MIBEL, análisis a largo plazo
+
+Uncertainty quantification in race car aerodynamics
+
+Viabilidad del análisis predictivo en ocupación de espacios
+
+Multiscale modeling of performance of proton exchange membrane fuel cells: effect of Pt loading and multiphase transport
+
+Optimization of GNSS Receiver ARAIM Algorithm for Aviation Applications
+
+Detección de flameo aeroelástico mediante técnicas de descomposición en modos dinámicos de alto orden (HODMD) y redes neuronales convolucionales (CNN)
+
+Parameters Estimation for the Computation of GNSS high-accuracy corrections
+
+Modelización de la penetración en paredes de ladrillo para proyectiles balísticos de diversos calibres
+
+Estrategias de modelización LES para el desarrollo de herramientas para la predicción operativa en parques eólicos
+
+Modelización y simulación de un ciclo de Rankine regenerativo
+
+Análisis magnetohidrodinámico de la envoltura regeneradora de un reactor de fusión
+
+AGRICORE -- A financial decision optimization tool
+
+Modelo híbrido de orden reducido basado en descomposición ortogonal con Deep Learning aplicado a la mecánica de fluidos
+
+Desarrollo de modelos predictivos basados en redes neuronales para la demanda energética en hospitales
+
+Implementación y validación del algoritmo de Boris en Wake-T
+
+Analysis of aero-acoustic interaction of combustion with combustion chamber walls
+
+Aplicación de técnicas de Inteligencia Artificial al desarrollo de una terapia génica para la Hiperoxaluria Primaria
+
+Implementación del método de descomposición modal dinámica de alto orden
+
+Optimización del posicionamiento de una constelación de cámaras para la detección de incendios forestales
+
+Automatizar la extracción de los 37 Boletines Oficiales de España y su posterior análisis mediante técnicas de Machine Learning, concretamente con modelos de NLP (Natural Language Processing)
+
+Modelo evolutivo de virus acoplado con dinámica de la población huésped
+
+Métodos de Galerkin discontinuo aplicados a sistemas simétricos hiperbólicos de Friedrichs
+
+Benchmarking de herramientas de análisis de observabilidad e identificabilidad estructural
+
+Cuantificación de decisiones celulares mediante un modelo basado en PIDEs
+
+Detección y clasificación automática de objetivos en un vehículo aéreo no tripulado sobre la superficie marítima
+
+Wind field reconstruction based on turbine measurements
+
+Modelado y simulación de incendios forestales empleando herramientas de cálculo computacional
+
+Control de poblaciones celulares mediante PIDE model-based control
+
+Diseño de experimentos para la optimización de la producción en factorías celulares
+
+Valoración de derivados en mercados de energía con Monte Carlo y DeepLearning
+
+Implementación de un modelo híbrido de Heston-Hull-White
+
+Entropía relativa e influencia del smile de volatilidad en derivados de tipos de interés
+
+Estudio del comportamiento aeroelástico de paneles fotovoltaicos
