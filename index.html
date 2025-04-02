@@ -1304,7 +1304,7 @@
 
     function showPanel() {
       const panel = document.querySelector('.tree-panel');
-      if (window.innerWidth > 768) {
+      if (window.innerWidth > 1024) {
         panel.classList.add('visible');
       }
     }
@@ -1312,7 +1312,7 @@
     let hoverTimeout;
 
     function isMobile() {
-      return window.innerWidth <= 768;
+      return window.innerWidth <= 1024;
     }
 
     function startShowPanelDelay() {
@@ -1330,7 +1330,7 @@
       hoverTimeout = setTimeout(() => {
         const panel = document.querySelector('.tree-panel');
         panel.classList.remove('visible-desktop');
-      }, 2000);
+      }, 1000);
     }
 
     function toggleMenu() {
